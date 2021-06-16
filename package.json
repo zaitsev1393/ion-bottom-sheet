@@ -1,5 +1,5 @@
 {
-  "name": "ion-bottom-sheet",
+  "name": "@we3/ion-bottom-sheet",
   "version": "2.0.6",
   "description": "A simple bottom sheet for ionic 4",
   "main": "./dist/index.js",
@@ -46,5 +46,8 @@
     "zone.js": "^0.9.1",
     "@types/hammerjs": "^2.0.36",
     "hammerjs": "^2.0.8"
+  },
+  "directories": {
+    "doc": "doc"
   }
 }
